@@ -1,7 +1,7 @@
 {
     "name": "vscode-why-this-file",
     "displayName": "vscode-why-this-file",
-    "description": "why this fie ? (find node module depends on this file)",
+    "description": "Why this fie ? (find node module depends on this file)",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.46.0"
@@ -17,7 +17,7 @@
         "commands": [
             {
                 "command": "vscode-why-this-file.why",
-                "title": "why this fie ? (find node module depends on this file)"
+                "title": "Why this fie ? (find node module depends on this file)"
             }
         ]
     },
