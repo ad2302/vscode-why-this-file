@@ -6,6 +6,9 @@
     "engines": {
         "vscode": "^1.46.0"
     },
+    "repository":{
+        "url": "https://github.com/ad2302/vscode-why-this-file"
+    },
     "publisher": "bung87",
     "categories": [
         "Other"
